@@ -1,0 +1,4 @@
+lindi
+pynwb
+matplotlib
+pynapple
